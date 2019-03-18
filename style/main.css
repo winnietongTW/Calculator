@@ -2,6 +2,9 @@
     padding: 0;
     margin: 0;
 }
+html{
+    background-color: #ebebeb;
+}
 ul li{
     list-style: none;
 }
@@ -13,6 +16,8 @@ ul li{
     background-color: rgb(49, 49, 49);
     border-radius: 15px;
     font-family: monospace;
+    position: relative;
+    top: 100px;
 }
 .calScreen{
     background-color: rgb(144, 220, 185);
