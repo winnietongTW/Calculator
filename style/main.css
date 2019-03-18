@@ -27,6 +27,7 @@ ul li{
     min-height: 30px;
     padding: 5px 10px;
     overflow: hidden;
+    word-wrap:break-word;
 }
 .calBtn{
     display: flex;
